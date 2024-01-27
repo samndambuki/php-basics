@@ -26,5 +26,4 @@ try{
     echo 'Second finally';    
 }
 
-
 echo 'Hello world';
